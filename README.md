@@ -1,16 +1,16 @@
-### Hi there 👋
+# Matt Wraith
 
-<!--
-**wraithm/wraithm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I write Haskell and Bitcoin code at Bitnomial. Previously, I worked in financial technology consulting, and I co-founded PeerTrader, a peer-to-peer lending automating investment platform. I studied Physics and Mathematics at University of Illinois at Urbana-Champaign where I worked on simulations and data analysis for statistical models of complex phenomena.
 
-Here are some ideas to get you started:
+My general interests include:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Bitcoin
+- Haskell
+- Cryptography and security
+- Compilers and programming languages
+- Physics
+- Mathematics
+- Computer graphics
+- Rock climbing
+- Emacs
+- Human languages
